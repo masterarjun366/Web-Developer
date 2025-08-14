@@ -1,1 +1,2 @@
 # Web-Developer
+Hi Everyone! I am a begginer Web Developer. I am learning Web Development since almost 1 month.I have completed HTML and now I am learning CSS and soon I will finish CSS and start JavaScript. You can see my source code written from starting of my Web Dev journey.You can checkout all the sourc code written and i will update the source code daily one video I will put. And dont miss my Python Source code. I have all covered the chapters. And i will update it once in a week! And I am about to finish Python.
